@@ -1,5 +1,5 @@
 {
-  "name": "evenodd",
+  "name": "evenoddcheck",
   "version": "1.0.0",
   "description": "A package that quickly sorts even and odd numbers based on input",
   "main": "index.js",
