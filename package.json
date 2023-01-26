@@ -1,0 +1,25 @@
+{
+  "name": "evenodd",
+  "version": "1.0.0",
+  "description": "A package that quickly sorts even and odd numbers based on input",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Even",
+    "Odd",
+    "Sort"
+  ],
+  "author": "Habeeb Tijani",
+  "license": "ISC"
+}
